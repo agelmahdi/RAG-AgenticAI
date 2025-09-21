@@ -1,0 +1,10 @@
+# Dependencies for the Icebreaker Bot project
+ibm-watsonx-ai==1.1.2
+llama-index==0.11.8
+llama-index-core==0.11.8
+llama-index-llms-ibm==0.2.0
+llama-index-embeddings-ibm==0.2.0
+llama-index-readers-web==0.2.2
+requests==2.32.2
+gradio==4.44.1
+pydantic==2.10.6
