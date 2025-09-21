@@ -2,7 +2,6 @@ venv/
 __pycache__/
 *.pyc
 .env
-llm_interface.py
 query_engine.py
 creds.py
 main.py
